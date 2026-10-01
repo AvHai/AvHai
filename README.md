@@ -21,5 +21,5 @@
 
 ### 📫 Connect With Me
 * **Email:** [avhisheknandi@gmail.com](mailto:avhisheknandi@gmail.com)
-* **LinkedIn:** [Your LinkedIn URL]([https://linkedin.com](https://www.linkedin.com/in/avhisheknandi))
+* **LinkedIn:** [Avhishek Nandi](https://www.linkedin.com/in/avhisheknandi))
 * **GitHub:** [AvHai](https://github.com/AvHai)
