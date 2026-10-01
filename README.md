@@ -5,7 +5,7 @@
 ---
 
 ### 🛠️ Tech Stack & Skills
-* **Languages & Core:** Java, JavaScript (ES6+), TypeScript, Python, SQL, C++, OOP, SOLID
+* **Languages & Core:** Java, GoLang, TypeScript, Python, SQL
 * **Backend & Architecture:** Spring Boot, Spring Cloud, Microservices, Event-Driven Architecture, REST APIs, gRPC, Apache Kafka
 * **Frontend & Mobile:** React, React Native, Thymeleaf, Tailwind CSS
 * **Databases & DevOps:** PostgreSQL, MySQL, MongoDB, Docker, Docker Compose, CI/CD, AWS, OCI
@@ -21,6 +21,5 @@
 
 ### 📫 Connect With Me
 * **Email:** [avhisheknandi@gmail.com](mailto:avhisheknandi@gmail.com)
-* **LinkedIn:** [Your LinkedIn URL](https://linkedin.com)
+* **LinkedIn:** [Your LinkedIn URL]([https://linkedin.com](https://www.linkedin.com/in/avhisheknandi))
 * **GitHub:** [AvHai](https://github.com/AvHai)
-* **LeetCode:** [Your LeetCode Handle](https://leetcode.com)
